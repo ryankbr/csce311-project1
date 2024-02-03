@@ -1,2 +1,5 @@
-# csce311-project1
-this is a personal portfolio website made w/ typescript, html, &amp; css for csce 331: software engineering
+![image](https://github.com/csce-315-331-2024a/project-1-ryankbr/assets/73092944/60e0e8fe-cee0-4478-8afd-dda8a2034862)
+![image](https://github.com/csce-315-331-2024a/project-1-ryankbr/assets/73092944/eb430444-e849-4cdf-aaf7-f8c25319e351)
+![image](https://github.com/csce-315-331-2024a/project-1-ryankbr/assets/73092944/c4d6ea9e-a6ef-4763-a091-6eab7b2798b2)
+![image](https://github.com/csce-315-331-2024a/project-1-ryankbr/assets/73092944/ca78927b-6816-4004-87cd-09beec8ae0cd)
+![image](https://github.com/csce-315-331-2024a/project-1-ryankbr/assets/73092944/24458cc0-2be4-461c-a7af-2d261217bb73)
